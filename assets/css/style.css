@@ -1,5 +1,9 @@
 /* estilos da página index.html */
 
+body{
+    background-color:#9AECDB;
+}
+
 *{  
     margin:0;
     padding:0%;
@@ -46,8 +50,8 @@ font-size: 20px;
 }
 
 .tm-social{
-    width: 25px; ;
-    height: 25px;
+    width:25px; 
+    height:25px;
 }
 
 .mb50{
